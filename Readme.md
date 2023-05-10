@@ -4,7 +4,7 @@ The main goal from the development of this dataset is to build a Named Entity Re
 
 ![pic-1](https://raw.githubusercontent.com/hanifabd/food-text-dataset/master/assets/pic1.png)
 
-## **Dataset Type**
+## **Dataset List**
 
 - `food.csv` - food name text
     - foodname: the name of the food
