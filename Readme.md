@@ -1,5 +1,9 @@
 # **Food Text Datasets**
 
+```
+NOTE: This Dataset are currently under development. If you want to join this dataset development just get into my email **hanifabd23@gmail.com**
+```
+
 The main goal from the development of this dataset is to build a Named Entity Recognition for **`FOOD`** tag. The result of NER will be used for searcing module or any other tasks.
 
 ![pic-1](https://raw.githubusercontent.com/hanifabd/food-text-dataset/master/assets/pic1.png)
